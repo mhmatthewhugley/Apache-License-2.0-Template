@@ -1,3 +1,8 @@
+Contributors:
+   [name] [username]
+
+Copyright holders:
+   Copyright [yyyy] [name of copyright owner]
 
    APPENDIX: How to apply the Apache License to your work.
 
