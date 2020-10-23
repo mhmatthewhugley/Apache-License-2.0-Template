@@ -1,7 +1,7 @@
 # Apache-License-2.0-Template
 This is a Apache-License-2.0-Template.
 
-File(s) are in the folder named[data](data)
+File(s) are in the folder named [data](data)
 
 Licensed under the [Apache License 2.0](LICENSE.txt)
 
